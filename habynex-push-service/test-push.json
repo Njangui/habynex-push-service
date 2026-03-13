@@ -1,0 +1,17 @@
+{
+  "subscriptions": [
+    {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/TON_TOKEN_FCM_ICI",
+      "keys": {
+        "p256dh": "CLE_P256DH_ICI",
+        "auth": "CLE_AUTH_ICI"
+      }
+    }
+  ],
+  "payload": {
+    "title": "Test local",
+    "body": "Ça marche ! 🎉",
+    "icon": "/icon-192x192.png",
+    "url": "/"
+  }
+}
